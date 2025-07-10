@@ -1,4 +1,4 @@
-````plaintext
+
 # COD IW Localization Tool
 
 Bu Python aracı, Call of Duty: Infinite Warfare oyununda gerçek zamanlı bellek analizi yaparak altyazıları İngilizceden Türkçeye çevirmeye yarar. Pymem ve Facebook NLLB-200 yapay zeka modeli ile entegre çalışır.

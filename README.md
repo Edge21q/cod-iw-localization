@@ -31,6 +31,14 @@ Bu Python aracı, Call of Duty: Infinite Warfare oyununda gerçek zamanlı belle
 - Yönetici hakları (Administrator) - Bellek erişimi için zorunlu  
 
 ### Python Kütüphaneleri  
+
+Sözlük çeviri Kullanılacaksa:
+
+```bash
+pip install pymem pynput
+````
+
+Ai Model Kullanılacaksa:
 ```bash
 pip install pymem torch transformers pynput
 ````
@@ -205,6 +213,13 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyas
 * EN→TR Cache: İngilizce'den Türkçe çeviri önbelleği
 * TR→EN Reverse: Türkçe'den İngilizce ters lookup
 * Character Names: Karakter ismi çevirileri
+
+
+### Klavye Dinleme Sistemi
+
+* Bölüm Geçişlerinde oyunun çökmesini engellemek için (*) ile çeviri sistemini duraklat
+* Tekrar Devam Ettirmek için (-) ile çeviri sistemini devam ettir
+
 
 
 ⚠️ **Yasal Uyarı:** Bu araç yalnızca eğitim ve kişisel kullanım amaçlı geliştirilmiştir. Ticari bir amaç taşımamaktadır. Call of Duty: Infinite Warfare ve ilgili tüm telif hakları Activision ve Infinity Ward'a aittir. Bu araç, oyunun orijinal dosyalarını değiştirmez ve sadece bellek üzerinde geçici değişiklikler yapar.

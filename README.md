@@ -87,8 +87,8 @@ python cod-iw-localization.py
 
 ### Klavye Kontrolleri
 
-* * (Yıldız): Çeviri sistemini duraklat
-* * (Eksi): Çeviri sistemini devam ettir
+* * (*): Çeviri sistemini duraklat
+* * (-): Çeviri sistemini devam ettir
 * Ctrl+C: Programdan çık
 
 ### Kullanım Senaryoları

@@ -28,7 +28,7 @@ Bu Python aracı, Call of Duty: Infinite Warfare oyununda gerçek zamanlı belle
 - Python 3.8+  
 - Windows 10/11 (64-bit)  
 - Call of Duty: Infinite Warfare PC sürümü  
-- Yönetici hakları (Administrator) - Bellek erişimi için zorunlu  
+- Yönetici hakları (Administrator) - Bellek erişimi için zorunlu - Otomatik Yönetici olarak başlatmak için  start.bat dosyasını kullanabilirsiniz
 
 ### Python Kütüphaneleri  
 
